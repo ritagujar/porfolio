@@ -1,5 +1,7 @@
+import NavBar from "./components/Navbar/index";
+
 function App() {
-  return <h1>This is my Porfolio</h1>;
+  return <NavBar />;
 }
 
 export default App;
