@@ -6,11 +6,12 @@ const StyledNavbar = styled.nav`
   color: #f1fff1;
   background-color: #252525;
   height: 4rem;
+  width: 100%;
   position: sticky;
   top: 0;
   align-items: center;
   justify-content: space-between;
-  padding: 0 3rem;
+  padding: 0 4rem;
 `;
 
 const LogoText = styled.h1`
